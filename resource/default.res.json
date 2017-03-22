@@ -1,0 +1,220 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,bg_day_png,bg_night_png,bird0_0_png,bird0_1_png,bird0_2_png,bird1_0_png,bird1_1_png,bird1_2_png,bird2_0_png,bird2_1_png,bird2_2_png,button_menu_png,button_ok_png,button_pause_png,button_play_png,button_rate_png,button_resume_png,button_score_png,button_share_png,land_png,new_png,pipe2_down_png,pipe2_up_png,pipe_down_png,pipe_up_png,score_panel_png,text_game_over_png,text_ready_png,title_png,tutorial_png,angrybird_png,button_restart_png,cheat_normal_png,cheat_down_png,X2_png,X1_png,TencentWeibo_png,QQZone_png,sina_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bg_day_png",
+			"type": "image",
+			"url": "assets/flappybird/bg_day.png"
+		},
+		{
+			"name": "bg_night_png",
+			"type": "image",
+			"url": "assets/flappybird/bg_night.png"
+		},
+		{
+			"name": "bird0_0_png",
+			"type": "image",
+			"url": "assets/flappybird/bird0_0.png"
+		},
+		{
+			"name": "bird0_1_png",
+			"type": "image",
+			"url": "assets/flappybird/bird0_1.png"
+		},
+		{
+			"name": "bird0_2_png",
+			"type": "image",
+			"url": "assets/flappybird/bird0_2.png"
+		},
+		{
+			"name": "bird1_0_png",
+			"type": "image",
+			"url": "assets/flappybird/bird1_0.png"
+		},
+		{
+			"name": "bird1_1_png",
+			"type": "image",
+			"url": "assets/flappybird/bird1_1.png"
+		},
+		{
+			"name": "bird1_2_png",
+			"type": "image",
+			"url": "assets/flappybird/bird1_2.png"
+		},
+		{
+			"name": "bird2_0_png",
+			"type": "image",
+			"url": "assets/flappybird/bird2_0.png"
+		},
+		{
+			"name": "bird2_1_png",
+			"type": "image",
+			"url": "assets/flappybird/bird2_1.png"
+		},
+		{
+			"name": "bird2_2_png",
+			"type": "image",
+			"url": "assets/flappybird/bird2_2.png"
+		},
+		{
+			"name": "button_menu_png",
+			"type": "image",
+			"url": "assets/flappybird/button_menu.png"
+		},
+		{
+			"name": "button_ok_png",
+			"type": "image",
+			"url": "assets/flappybird/button_ok.png"
+		},
+		{
+			"name": "button_pause_png",
+			"type": "image",
+			"url": "assets/flappybird/button_pause.png"
+		},
+		{
+			"name": "button_play_png",
+			"type": "image",
+			"url": "assets/flappybird/button_play.png"
+		},
+		{
+			"name": "button_rate_png",
+			"type": "image",
+			"url": "assets/flappybird/button_rate.png"
+		},
+		{
+			"name": "button_resume_png",
+			"type": "image",
+			"url": "assets/flappybird/button_resume.png"
+		},
+		{
+			"name": "button_score_png",
+			"type": "image",
+			"url": "assets/flappybird/button_score.png"
+		},
+		{
+			"name": "button_share_png",
+			"type": "image",
+			"url": "assets/flappybird/button_share.png"
+		},
+		{
+			"name": "land_png",
+			"type": "image",
+			"url": "assets/flappybird/land.png"
+		},
+		{
+			"name": "new_png",
+			"type": "image",
+			"url": "assets/flappybird/new.png"
+		},
+		{
+			"name": "pipe2_down_png",
+			"type": "image",
+			"url": "assets/flappybird/pipe2_down.png"
+		},
+		{
+			"name": "pipe2_up_png",
+			"type": "image",
+			"url": "assets/flappybird/pipe2_up.png"
+		},
+		{
+			"name": "pipe_down_png",
+			"type": "image",
+			"url": "assets/flappybird/pipe_down.png"
+		},
+		{
+			"name": "pipe_up_png",
+			"type": "image",
+			"url": "assets/flappybird/pipe_up.png"
+		},
+		{
+			"name": "score_panel_png",
+			"type": "image",
+			"url": "assets/flappybird/score_panel.png"
+		},
+		{
+			"name": "text_game_over_png",
+			"type": "image",
+			"url": "assets/flappybird/text_game_over.png"
+		},
+		{
+			"name": "text_ready_png",
+			"type": "image",
+			"url": "assets/flappybird/text_ready.png"
+		},
+		{
+			"name": "title_png",
+			"type": "image",
+			"url": "assets/flappybird/title.png"
+		},
+		{
+			"name": "tutorial_png",
+			"type": "image",
+			"url": "assets/flappybird/tutorial.png"
+		},
+		{
+			"name": "angrybird_png",
+			"type": "image",
+			"url": "assets/flappybird/angrybird.png"
+		},
+		{
+			"name": "button_restart_png",
+			"type": "image",
+			"url": "assets/flappybird/button_restart.png"
+		},
+		{
+			"name": "cheat_normal_png",
+			"type": "image",
+			"url": "assets/flappybird/cheat_normal.png"
+		},
+		{
+			"name": "cheat_down_png",
+			"type": "image",
+			"url": "assets/flappybird/cheat_down.png"
+		},
+		{
+			"name": "X2_png",
+			"type": "image",
+			"url": "assets/flappybird/X2.png"
+		},
+		{
+			"name": "X1_png",
+			"type": "image",
+			"url": "assets/flappybird/X1.png"
+		},
+		{
+			"name": "TencentWeibo_png",
+			"type": "image",
+			"url": "assets/flappybird/TencentWeibo.png"
+		},
+		{
+			"name": "QQZone_png",
+			"type": "image",
+			"url": "assets/flappybird/QQZone.png"
+		},
+		{
+			"name": "sina_png",
+			"type": "image",
+			"url": "assets/flappybird/sina.png"
+		}
+	]
+}
